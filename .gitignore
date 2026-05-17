@@ -1,0 +1,19 @@
+# Environments
+venv/
+env/
+.env
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Models and large files
+*.pkl
+*.h5
+*.keras
+*.model
+
+# OS generated
+.DS_Store
+Thumbs.db
